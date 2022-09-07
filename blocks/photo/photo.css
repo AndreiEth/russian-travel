@@ -1,6 +1,5 @@
 .photo {
     width: 1184px;
-    height: 671px;
     margin: 0 auto;
     margin-top: 92px;
     margin-bottom: 92px;
@@ -14,7 +13,6 @@
 
     .photo {
         width: 928px;
-        height: 942px;
         display: grid;
         grid-template-columns: repeat(3, 1fr);
         grid-template-rows: repeat(4, 1fr);
@@ -26,7 +24,6 @@
 
     .photo {
         width: 720px;
-        height: 1664px;
         margin-top: 88px;
         margin-bottom: 88px;
         display: grid;
@@ -40,7 +37,6 @@
 
     .photo {
         width: 288px;
-        height: 2724px;
         margin-top: 64px;
         margin-bottom: 64px;
         display: grid;

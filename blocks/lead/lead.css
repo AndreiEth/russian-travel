@@ -1,11 +1,17 @@
 .lead {
-    max-width: 984px;
     margin: 0 auto;
     margin-bottom: 92px;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
     align-items: center;
+    max-width: 984px;
+}
+
+@media screen and (max-width:1024px) {
+    .lead {
+        max-width: 928px;
+    }
 }
 
 @media screen and (max-width:320px) {
