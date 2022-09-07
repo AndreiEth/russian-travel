@@ -7,25 +7,10 @@
     color: #FFFFFF;
 }
 
-.place__paragraph_active {
-    margin-top: 26px;
-}
-
-@media screen and (max-width:1024px) {
-
-    .place__paragraph_active {
-        margin-top: 27px;
-    }
-}
-
 @media screen and (max-width:768px) {
 
     .place__paragraph {
         font-size: 16px;
-    }
-
-    .place__paragraph_active {
-        margin-top: 25px;
     }
 }
 
@@ -33,9 +18,5 @@
 
     .place__paragraph {
         font-size: 16px;
-    }
-
-    .place__paragraph_active {
-        margin-top: 25px;
     }
 }

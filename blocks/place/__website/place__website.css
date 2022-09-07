@@ -1,20 +1,19 @@
 .place__website {
     align-self: end;
     width: 456px;
-    height: 46px;
 }
+
 @media screen and (max-width:768px) {
 
     .place__website {
         width: 352px;
-        height: 46px;
     }
 }
+
 @media screen and (max-width:320px) {
 
     .place__website {
         margin: 0 auto;
         width: 288px;
-        height: 46px;
     }
 }
